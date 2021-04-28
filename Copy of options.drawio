@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-28T21:32:04.610Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="upLm2OHwRtfEseECTSYV" version="14.6.6" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2021-04-28T21:33:46.668Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="YoyNSoBwQcIQWBdM21NJ" version="14.6.6" type="github" pages="9">
   <diagram id="Z2_JJwpjE5RmeSe0CtXW" name="Structure">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2412,11 +2412,11 @@
             <mxPoint x="790" y="1505" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="glgqzWVwUK_MdGQvO4FH-7" value="Vesting" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="3RzqRrr4vNIUiNf2ENTe-1">
-          <mxGeometry x="236.25" y="1533" width="63.75" height="20" as="geometry" />
+        <mxCell id="glgqzWVwUK_MdGQvO4FH-7" value="Vesting Table" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="3RzqRrr4vNIUiNf2ENTe-1">
+          <mxGeometry x="236.25" y="1533" width="133.75" height="20" as="geometry" />
         </mxCell>
         <mxCell id="glgqzWVwUK_MdGQvO4FH-8" value="2,000cFNX claimed" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="3RzqRrr4vNIUiNf2ENTe-1">
-          <mxGeometry x="310" y="1534" width="130" height="20" as="geometry" />
+          <mxGeometry x="368.75" y="1533" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="glgqzWVwUK_MdGQvO4FH-9" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=14;fontColor=#000000;strokeColor=#000000;strokeWidth=2;fillColor=#EBEBEB;align=center;" vertex="1" parent="3RzqRrr4vNIUiNf2ENTe-1">
           <mxGeometry x="240" y="1580" width="520" height="240" as="geometry" />
@@ -2436,7 +2436,7 @@
         <mxCell id="glgqzWVwUK_MdGQvO4FH-26" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="glgqzWVwUK_MdGQvO4FH-9">
           <mxGeometry y="40" width="520" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="glgqzWVwUK_MdGQvO4FH-27" value="2nd month" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="glgqzWVwUK_MdGQvO4FH-26">
+        <mxCell id="glgqzWVwUK_MdGQvO4FH-27" value="Next month" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="glgqzWVwUK_MdGQvO4FH-26">
           <mxGeometry width="173" height="40" as="geometry" />
         </mxCell>
         <mxCell id="glgqzWVwUK_MdGQvO4FH-28" value="200 FNX" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="glgqzWVwUK_MdGQvO4FH-26">
