@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-28T21:44:43.281Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="aTOroIbzCaHtbrsceZ23" version="14.6.6" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2021-04-29T03:06:09.827Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="t4lQ2JQBO4-x6hPlrWgn" version="14.6.6" type="github" pages="9">
   <diagram id="Z2_JJwpjE5RmeSe0CtXW" name="Structure">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1532,8 +1532,8 @@
         <mxCell id="YfaataDFHK7MT7gKMGET-70" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.ios7.misc.info;strokeColor=#0080f0;fontSize=17;align=center;" vertex="1" parent="YfaataDFHK7MT7gKMGET-1">
           <mxGeometry x="556" y="1686" width="12" height="12" as="geometry" />
         </mxCell>
-        <mxCell id="YfaataDFHK7MT7gKMGET-71" value="Minimum Collateral Ratio&lt;br&gt;120%" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="YfaataDFHK7MT7gKMGET-1">
-          <mxGeometry x="590" y="1690" width="180" height="20" as="geometry" />
+        <mxCell id="YfaataDFHK7MT7gKMGET-71" value="Interest Rate&lt;br&gt;5%" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="YfaataDFHK7MT7gKMGET-1">
+          <mxGeometry x="590" y="1689" width="180" height="20" as="geometry" />
         </mxCell>
         <mxCell id="YfaataDFHK7MT7gKMGET-72" value="Unused Collateral&lt;br&gt;$400,000,000" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="YfaataDFHK7MT7gKMGET-1">
           <mxGeometry x="243.25" y="1740" width="153.75" height="20" as="geometry" />
@@ -2495,6 +2495,9 @@
         </mxCell>
         <mxCell id="glgqzWVwUK_MdGQvO4FH-34" value="Claim" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;strokeWidth=2;" vertex="1" parent="3RzqRrr4vNIUiNf2ENTe-1">
           <mxGeometry x="637" y="1592" width="73" height="23.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IVifrRHd9yNtLwAO-can-0" value="Convert" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;strokeWidth=2;" vertex="1" parent="3RzqRrr4vNIUiNf2ENTe-1">
+          <mxGeometry x="720" y="1529.5" width="73" height="23.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
