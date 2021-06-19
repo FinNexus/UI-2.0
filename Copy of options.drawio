@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-19T11:35:18.325Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" etag="lpetQ1ONvWBdndOJigcV" version="14.8.0" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2021-06-19T11:36:18.620Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" etag="026VdE6-1fBm0dXZODlC" version="14.8.0" type="github" pages="9">
   <diagram id="Z2_JJwpjE5RmeSe0CtXW" name="Structure">
     <mxGraphModel dx="2062" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1292,8 +1292,8 @@
             <mxPoint x="810" y="2370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sbfZTr0Tv5G7oTtVcwyW-11" value="P&amp;amp;L计算方法：&lt;br&gt;Amount列之和x当前价格+Volume列之和&lt;br&gt;列上同类Token相加得到该类token的P&amp;amp;L&lt;br&gt;如果没有过滤条件再所有相加" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="-AFxZbUmwIjxe3T40p1Y-1">
-          <mxGeometry x="829.5" y="2318" width="270.5" height="20" as="geometry" />
+        <mxCell id="sbfZTr0Tv5G7oTtVcwyW-11" value="P&amp;amp;L计算方法：&lt;br&gt;Amount列之和x当前价格+Volume列之和&lt;br&gt;列上同类Token相加得到该类token的P&amp;amp;L&lt;br&gt;如果没有过滤条件所有类相加" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="-AFxZbUmwIjxe3T40p1Y-1">
+          <mxGeometry x="827" y="2289" width="270.5" height="62" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
