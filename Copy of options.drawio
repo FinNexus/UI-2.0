@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-19T05:21:20.922Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" etag="nNsULhWqo77CuaP_HL-U" version="14.8.0" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2021-06-19T10:07:09.531Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" etag="F_fKN_5Vu3laqUz5bC3m" version="14.8.0" type="github" pages="9">
   <diagram id="Z2_JJwpjE5RmeSe0CtXW" name="Structure">
     <mxGraphModel dx="2062" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -644,7 +644,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Leveraged" id="NCVhHZ-kW_5AMTPbCNJf">
-    <mxGraphModel dx="1422" dy="-375" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2062" dy="-341" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="-AFxZbUmwIjxe3T40p1Y-0" />
         <mxCell id="-AFxZbUmwIjxe3T40p1Y-1" parent="-AFxZbUmwIjxe3T40p1Y-0" />
@@ -732,7 +732,7 @@
         <mxCell id="nK7u-u-u8jKr2TprrAh7-0" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="-AFxZbUmwIjxe3T40p1Y-1" vertex="1">
           <mxGeometry x="240" y="1345" width="280" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="nK7u-u-u8jKr2TprrAh7-1" value="BTCBULLx3&amp;nbsp; 2,000$&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;span style=&quot;font-size: 12px ; font-weight: 400&quot;&gt;TVL 356,555,222&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;fontStyle=1;fontSize=14;" parent="-AFxZbUmwIjxe3T40p1Y-1" vertex="1">
+        <mxCell id="nK7u-u-u8jKr2TprrAh7-1" value="BTCBULLx3&amp;nbsp; 2,000$&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;fontStyle=1;fontSize=14;" parent="-AFxZbUmwIjxe3T40p1Y-1" vertex="1">
           <mxGeometry x="248" y="1355" width="264" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nK7u-u-u8jKr2TprrAh7-3" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.8;dx=7;direction=north;notch=0;fontSize=14;strokeWidth=2;" parent="-AFxZbUmwIjxe3T40p1Y-1" vertex="1">
@@ -742,16 +742,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nK7u-u-u8jKr2TprrAh7-6" value="Current Leverage &lt;br&gt;x0.2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="-AFxZbUmwIjxe3T40p1Y-1" vertex="1">
-          <mxGeometry x="242" y="1395" width="127" height="20" as="geometry" />
+          <mxGeometry x="240" y="1430" width="127" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nK7u-u-u8jKr2TprrAh7-7" value="Target Leverage &lt;br&gt;x3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="-AFxZbUmwIjxe3T40p1Y-1" vertex="1">
-          <mxGeometry x="390" y="1395" width="120" height="20" as="geometry" />
+          <mxGeometry x="388" y="1430" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="nK7u-u-u8jKr2TprrAh7-8" value="Assets per Token&lt;br&gt;1 BTC/50000$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="-AFxZbUmwIjxe3T40p1Y-1" vertex="1">
-          <mxGeometry x="245.5" y="1435" width="120" height="20" as="geometry" />
+        <mxCell id="nK7u-u-u8jKr2TprrAh7-8" value="Liquidity&lt;br&gt;&amp;nbsp;50,000$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="-AFxZbUmwIjxe3T40p1Y-1" vertex="1">
+          <mxGeometry x="390" y="1390" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="nK7u-u-u8jKr2TprrAh7-9" value="Debt per Token&lt;br&gt;4000 USDT/50000$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="-AFxZbUmwIjxe3T40p1Y-1" vertex="1">
-          <mxGeometry x="392" y="1435" width="120" height="20" as="geometry" />
+        <mxCell id="nK7u-u-u8jKr2TprrAh7-9" value="TVL&lt;br&gt;&amp;nbsp;356,555,222" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="-AFxZbUmwIjxe3T40p1Y-1" vertex="1">
+          <mxGeometry x="249" y="1390" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nK7u-u-u8jKr2TprrAh7-11" value="Price&amp;nbsp; 2,000$ +10%" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;fontStyle=1;fontSize=14;" parent="-AFxZbUmwIjxe3T40p1Y-1" vertex="1">
           <mxGeometry x="530" y="1355" width="150" height="20" as="geometry" />
@@ -981,8 +981,8 @@
             <mxPoint x="740" y="1897" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nK7u-u-u8jKr2TprrAh7-72" value="Next rebalance countdown: 1h:23m:24s&amp;nbsp;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=23;" parent="-AFxZbUmwIjxe3T40p1Y-1" vertex="1">
-          <mxGeometry x="380" y="1270" width="300" height="20" as="geometry" />
+        <mxCell id="nK7u-u-u8jKr2TprrAh7-72" value="Leveraged Token has automaticlly rebalance mecanism to avoid to be liquidated. When current leverage in the range between 2.5~3.5 times, rebalance will not be triggered.&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="-AFxZbUmwIjxe3T40p1Y-1" vertex="1">
+          <mxGeometry x="270" y="1270" width="520" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nK7u-u-u8jKr2TprrAh7-73" value="Your Leverage Token" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=23;" parent="-AFxZbUmwIjxe3T40p1Y-1" vertex="1">
           <mxGeometry x="365.5" y="2020" width="300" height="20" as="geometry" />
@@ -1046,6 +1046,9 @@
         </mxCell>
         <mxCell id="nK7u-u-u8jKr2TprrAh7-98" value="Sell" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;strokeWidth=2;" parent="-AFxZbUmwIjxe3T40p1Y-1" vertex="1">
           <mxGeometry x="770" y="2160" width="45" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rGIQ6YGSIP7QVZhzQwNt-1" value="Icon" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;align=center;" vertex="1" parent="-AFxZbUmwIjxe3T40p1Y-1">
+          <mxGeometry x="484.75" y="1355" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
