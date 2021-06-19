@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-19T04:38:32.505Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" etag="tXW14teA2_p0AMrnBlkE" version="14.8.0" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2021-06-19T04:45:52.890Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" etag="WE_H0gexRBS6A7EZcjVY" version="14.8.0" type="github" pages="9">
   <diagram id="Z2_JJwpjE5RmeSe0CtXW" name="Structure">
     <mxGraphModel dx="2062" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -430,8 +430,8 @@
             <mxPoint x="880" y="1595" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dfZKqxk-DiSoixypfCnZ-0" value="Confirm" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gk_kteRjiz8Lh_NU-UZx-1">
-          <mxGeometry x="1113" y="1670" width="140" height="30" as="geometry" />
+        <mxCell id="dfZKqxk-DiSoixypfCnZ-0" value="Confirm/No sufficient balance" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gk_kteRjiz8Lh_NU-UZx-1">
+          <mxGeometry x="1109" y="1670" width="147" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dfZKqxk-DiSoixypfCnZ-3" value="BTC Options" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gk_kteRjiz8Lh_NU-UZx-1">
           <mxGeometry x="1153" y="1215" width="77" height="20" as="geometry" />
@@ -466,11 +466,17 @@
         <mxCell id="dfZKqxk-DiSoixypfCnZ-18" value="(Balance:500 USDT)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="gk_kteRjiz8Lh_NU-UZx-1">
           <mxGeometry x="1232.5" y="1375" width="124" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="dfZKqxk-DiSoixypfCnZ-19" value="Allow Phonex options contract use your USDT&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gk_kteRjiz8Lh_NU-UZx-1">
+        <mxCell id="dfZKqxk-DiSoixypfCnZ-19" value="Allow Phonex options contract use your USDT / You can now buy options" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gk_kteRjiz8Lh_NU-UZx-1">
           <mxGeometry x="943" y="1610" width="467" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dfZKqxk-DiSoixypfCnZ-21" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.partConcEllipse;startAngle=0.25;endAngle=0.1;arcWidth=0.63;fontSize=14;" vertex="1" parent="gk_kteRjiz8Lh_NU-UZx-1">
-          <mxGeometry x="1313" y="1617" width="20" height="16" as="geometry" />
+        <mxCell id="dfZKqxk-DiSoixypfCnZ-22" value="拖动方框，左右数字和那条斜线上的圆点会动" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="gk_kteRjiz8Lh_NU-UZx-1">
+          <mxGeometry x="1490" y="1510" width="360" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dfZKqxk-DiSoixypfCnZ-23" value="两句话是两个状态，合约未授权一个状态（授权中显示转的小圈），授权成功切换成另一个状态，变成“勾”" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="gk_kteRjiz8Lh_NU-UZx-1">
+          <mxGeometry x="1490" y="1610" width="360" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dfZKqxk-DiSoixypfCnZ-24" value="当余额不足显示No sufficient balance不可点，上一步未授权成功 Confrim不可点，以上两个条件都满足Confirm可点" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="gk_kteRjiz8Lh_NU-UZx-1">
+          <mxGeometry x="1500" y="1670" width="360" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
