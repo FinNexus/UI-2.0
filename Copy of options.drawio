@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-19T05:08:40.200Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" etag="h6w1q0WcyBM8hH80-gb-" version="14.8.0" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2021-06-19T05:18:07.103Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" etag="Bss-0fpcyq-whmBDMcpB" version="14.8.0" type="github" pages="9">
   <diagram id="Z2_JJwpjE5RmeSe0CtXW" name="Structure">
     <mxGraphModel dx="2062" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -433,8 +433,8 @@
         <mxCell id="dfZKqxk-DiSoixypfCnZ-0" value="Confirm/No sufficient balance" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gk_kteRjiz8Lh_NU-UZx-1">
           <mxGeometry x="1109" y="1670" width="147" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dfZKqxk-DiSoixypfCnZ-3" value="BTC Options" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gk_kteRjiz8Lh_NU-UZx-1">
-          <mxGeometry x="1153" y="1215" width="77" height="20" as="geometry" />
+        <mxCell id="dfZKqxk-DiSoixypfCnZ-3" value="Buying BTC Options" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gk_kteRjiz8Lh_NU-UZx-1">
+          <mxGeometry x="1153" y="1215" width="117" height="20" as="geometry" />
         </mxCell>
         <mxCell id="dfZKqxk-DiSoixypfCnZ-4" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="gk_kteRjiz8Lh_NU-UZx-1">
           <mxGeometry x="1123" y="1215" width="20" height="20" as="geometry" />
@@ -469,7 +469,7 @@
         <mxCell id="dfZKqxk-DiSoixypfCnZ-19" value="Allow Phonex options contract use your USDT / You can now buy options" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gk_kteRjiz8Lh_NU-UZx-1">
           <mxGeometry x="943" y="1610" width="467" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dfZKqxk-DiSoixypfCnZ-22" value="拖动方框，左右数字和那条斜线上的圆点会动" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="gk_kteRjiz8Lh_NU-UZx-1">
+        <mxCell id="dfZKqxk-DiSoixypfCnZ-22" value="拖动方框，左右数字和那条斜线上的圆点会动,默认显示 当前BTC价格的数据" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="gk_kteRjiz8Lh_NU-UZx-1">
           <mxGeometry x="1490" y="1510" width="360" height="20" as="geometry" />
         </mxCell>
         <mxCell id="dfZKqxk-DiSoixypfCnZ-23" value="两句话是两个状态，合约未授权一个状态（授权中显示转的小圈），授权成功切换成另一个状态，变成“勾”" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="gk_kteRjiz8Lh_NU-UZx-1">
@@ -490,7 +490,7 @@
         <mxCell id="dfZKqxk-DiSoixypfCnZ-27" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.donut;dx=19;fontSize=14;" vertex="1" parent="gk_kteRjiz8Lh_NU-UZx-1">
           <mxGeometry x="1023.5" y="1810" width="78" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="dfZKqxk-DiSoixypfCnZ-28" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;Waiting for confirmation in the wallet&lt;/span&gt;&lt;br style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250);&quot;&gt;&lt;font color=&quot;#ffa454&quot; style=&quot;font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250);&quot;&gt;BTC call 1,800$ 3 days&lt;/font&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;&amp;nbsp;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="gk_kteRjiz8Lh_NU-UZx-1">
+        <mxCell id="dfZKqxk-DiSoixypfCnZ-28" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;Waiting for confirmation in the wallet&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;font color=&quot;#ffa454&quot; style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&amp;nbsp;Buying BTC call 1,800$ 3 days&lt;/font&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;&amp;nbsp;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="gk_kteRjiz8Lh_NU-UZx-1">
           <mxGeometry x="952.5" y="1900" width="220" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dfZKqxk-DiSoixypfCnZ-29" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="gk_kteRjiz8Lh_NU-UZx-1" source="dfZKqxk-DiSoixypfCnZ-26">
@@ -528,6 +528,105 @@
         </mxCell>
         <mxCell id="dfZKqxk-DiSoixypfCnZ-38" value="Icon" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="gk_kteRjiz8Lh_NU-UZx-1">
           <mxGeometry x="1310" y="2020" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dfZKqxk-DiSoixypfCnZ-39" value="" style="endArrow=classic;html=1;" edge="1" parent="gk_kteRjiz8Lh_NU-UZx-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="730" y="1780" as="sourcePoint" />
+            <mxPoint x="730" y="1840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dfZKqxk-DiSoixypfCnZ-40" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="gk_kteRjiz8Lh_NU-UZx-1">
+          <mxGeometry x="250" y="1840" width="600" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="dfZKqxk-DiSoixypfCnZ-41" value="P&amp;amp;L for your BTC options&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="gk_kteRjiz8Lh_NU-UZx-1">
+          <mxGeometry x="297" y="2036" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dfZKqxk-DiSoixypfCnZ-51" value="Confirm to Excercise" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gk_kteRjiz8Lh_NU-UZx-1">
+          <mxGeometry x="476" y="2110" width="147" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dfZKqxk-DiSoixypfCnZ-52" value="Excerscise BTC Options" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gk_kteRjiz8Lh_NU-UZx-1">
+          <mxGeometry x="520" y="1851" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dfZKqxk-DiSoixypfCnZ-53" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="gk_kteRjiz8Lh_NU-UZx-1">
+          <mxGeometry x="490" y="1851" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dfZKqxk-DiSoixypfCnZ-54" value="Expiration" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="gk_kteRjiz8Lh_NU-UZx-1">
+          <mxGeometry x="310" y="1960" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dfZKqxk-DiSoixypfCnZ-55" value="Strike Price" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="gk_kteRjiz8Lh_NU-UZx-1">
+          <mxGeometry x="297" y="1927" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dfZKqxk-DiSoixypfCnZ-56" value="Cost" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="gk_kteRjiz8Lh_NU-UZx-1">
+          <mxGeometry x="296" y="1996" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dfZKqxk-DiSoixypfCnZ-57" value="Options Type" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="gk_kteRjiz8Lh_NU-UZx-1">
+          <mxGeometry x="297" y="1893" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dfZKqxk-DiSoixypfCnZ-58" value="Call" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="gk_kteRjiz8Lh_NU-UZx-1">
+          <mxGeometry x="623" y="1890" width="77" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dfZKqxk-DiSoixypfCnZ-59" value="1,800$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="gk_kteRjiz8Lh_NU-UZx-1">
+          <mxGeometry x="623" y="1923" width="77" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dfZKqxk-DiSoixypfCnZ-60" value="3 days" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="gk_kteRjiz8Lh_NU-UZx-1">
+          <mxGeometry x="623" y="1956" width="77" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dfZKqxk-DiSoixypfCnZ-61" value="1,800$/1,800USDT" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="gk_kteRjiz8Lh_NU-UZx-1">
+          <mxGeometry x="623" y="1991" width="77" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dfZKqxk-DiSoixypfCnZ-62" value="(Balance:500 USDT)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="gk_kteRjiz8Lh_NU-UZx-1">
+          <mxGeometry x="599.5" y="2011" width="124" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dfZKqxk-DiSoixypfCnZ-64" value="1,800$/1,800USDT" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="gk_kteRjiz8Lh_NU-UZx-1">
+          <mxGeometry x="621.5" y="2040" width="77" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dfZKqxk-DiSoixypfCnZ-65" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="gk_kteRjiz8Lh_NU-UZx-1">
+          <mxGeometry x="250" y="2250" width="346" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="dfZKqxk-DiSoixypfCnZ-66" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.donut;dx=19;fontSize=14;" vertex="1" parent="gk_kteRjiz8Lh_NU-UZx-1">
+          <mxGeometry x="389.5" y="2270" width="78" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dfZKqxk-DiSoixypfCnZ-67" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;Waiting for confirmation in the wallet&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;font color=&quot;#ffa454&quot; style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&amp;nbsp;Excersice BTC call 1,800$ 3 days&lt;/font&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;&amp;nbsp;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="gk_kteRjiz8Lh_NU-UZx-1">
+          <mxGeometry x="318.5" y="2360" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dfZKqxk-DiSoixypfCnZ-68" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="gk_kteRjiz8Lh_NU-UZx-1" source="dfZKqxk-DiSoixypfCnZ-65">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="436" y="2200" as="sourcePoint" />
+            <mxPoint x="656" y="2345" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dfZKqxk-DiSoixypfCnZ-69" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="gk_kteRjiz8Lh_NU-UZx-1">
+          <mxGeometry x="656" y="2250" width="346" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="dfZKqxk-DiSoixypfCnZ-70" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.donut;dx=19;fontSize=14;fontColor=#FFB675;" vertex="1" parent="gk_kteRjiz8Lh_NU-UZx-1">
+          <mxGeometry x="795.5" y="2270" width="78" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dfZKqxk-DiSoixypfCnZ-71" value="&lt;font face=&quot;helvetica&quot;&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;Transaction has been submitted&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="gk_kteRjiz8Lh_NU-UZx-1">
+          <mxGeometry x="724.5" y="2360" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dfZKqxk-DiSoixypfCnZ-72" value="&lt;span style=&quot;color: rgb(255 , 164 , 84) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;View on explore&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=14;fontColor=#FFB675;" vertex="1" parent="gk_kteRjiz8Lh_NU-UZx-1">
+          <mxGeometry x="786" y="2380" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dfZKqxk-DiSoixypfCnZ-73" value="Close" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontColor=#FFB675;align=center;" vertex="1" parent="gk_kteRjiz8Lh_NU-UZx-1">
+          <mxGeometry x="783.5" y="2410" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dfZKqxk-DiSoixypfCnZ-74" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="gk_kteRjiz8Lh_NU-UZx-1" source="dfZKqxk-DiSoixypfCnZ-65" target="dfZKqxk-DiSoixypfCnZ-75">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="606" y="2355" as="sourcePoint" />
+            <mxPoint x="646" y="2490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dfZKqxk-DiSoixypfCnZ-75" value="&lt;span style=&quot;color: rgb(255 , 164 , 84) ; font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;Excersicing&lt;/span&gt;&lt;span style=&quot;color: rgb(255 , 164 , 84) ; font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;&amp;nbsp;BTC call 1,800$ 3 days &lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;successful&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="gk_kteRjiz8Lh_NU-UZx-1">
+          <mxGeometry x="655.5" y="2470" width="346" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dfZKqxk-DiSoixypfCnZ-76" value="Icon" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="gk_kteRjiz8Lh_NU-UZx-1">
+          <mxGeometry x="676" y="2480" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dfZKqxk-DiSoixypfCnZ-77" value="" style="endArrow=classic;html=1;" edge="1" parent="gk_kteRjiz8Lh_NU-UZx-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="439" y="2170" as="sourcePoint" />
+            <mxPoint x="437" y="2249" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
