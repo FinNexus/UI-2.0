@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-19T04:45:52.890Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" etag="WE_H0gexRBS6A7EZcjVY" version="14.8.0" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2021-06-19T05:08:40.200Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" etag="h6w1q0WcyBM8hH80-gb-" version="14.8.0" type="github" pages="9">
   <diagram id="Z2_JJwpjE5RmeSe0CtXW" name="Structure">
     <mxGraphModel dx="2062" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -477,6 +477,57 @@
         </mxCell>
         <mxCell id="dfZKqxk-DiSoixypfCnZ-24" value="当余额不足显示No sufficient balance不可点，上一步未授权成功 Confrim不可点，以上两个条件都满足Confirm可点" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="gk_kteRjiz8Lh_NU-UZx-1">
           <mxGeometry x="1500" y="1670" width="360" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dfZKqxk-DiSoixypfCnZ-25" value="" style="endArrow=classic;html=1;" edge="1" parent="gk_kteRjiz8Lh_NU-UZx-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1060" y="1730" as="sourcePoint" />
+            <mxPoint x="1060" y="1780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dfZKqxk-DiSoixypfCnZ-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="gk_kteRjiz8Lh_NU-UZx-1">
+          <mxGeometry x="884" y="1790" width="346" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="dfZKqxk-DiSoixypfCnZ-27" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.donut;dx=19;fontSize=14;" vertex="1" parent="gk_kteRjiz8Lh_NU-UZx-1">
+          <mxGeometry x="1023.5" y="1810" width="78" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dfZKqxk-DiSoixypfCnZ-28" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;Waiting for confirmation in the wallet&lt;/span&gt;&lt;br style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250);&quot;&gt;&lt;font color=&quot;#ffa454&quot; style=&quot;font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250);&quot;&gt;BTC call 1,800$ 3 days&lt;/font&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;&amp;nbsp;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="gk_kteRjiz8Lh_NU-UZx-1">
+          <mxGeometry x="952.5" y="1900" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dfZKqxk-DiSoixypfCnZ-29" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="gk_kteRjiz8Lh_NU-UZx-1" source="dfZKqxk-DiSoixypfCnZ-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1070" y="1740" as="sourcePoint" />
+            <mxPoint x="1290" y="1885" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dfZKqxk-DiSoixypfCnZ-30" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="gk_kteRjiz8Lh_NU-UZx-1">
+          <mxGeometry x="1290" y="1790" width="346" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="dfZKqxk-DiSoixypfCnZ-31" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.donut;dx=19;fontSize=14;fontColor=#FFB675;" vertex="1" parent="gk_kteRjiz8Lh_NU-UZx-1">
+          <mxGeometry x="1429.5" y="1810" width="78" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dfZKqxk-DiSoixypfCnZ-32" value="&lt;font face=&quot;helvetica&quot;&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;Transaction has been submitted&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="gk_kteRjiz8Lh_NU-UZx-1">
+          <mxGeometry x="1358.5" y="1900" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dfZKqxk-DiSoixypfCnZ-33" value="&lt;span style=&quot;color: rgb(255 , 164 , 84) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;View on explore&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=14;fontColor=#FFB675;" vertex="1" parent="gk_kteRjiz8Lh_NU-UZx-1">
+          <mxGeometry x="1420" y="1920" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dfZKqxk-DiSoixypfCnZ-34" value="Close" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontColor=#FFB675;align=center;" vertex="1" parent="gk_kteRjiz8Lh_NU-UZx-1">
+          <mxGeometry x="1417.5" y="1950" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dfZKqxk-DiSoixypfCnZ-35" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="gk_kteRjiz8Lh_NU-UZx-1" source="dfZKqxk-DiSoixypfCnZ-26" target="dfZKqxk-DiSoixypfCnZ-36">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1240" y="1895" as="sourcePoint" />
+            <mxPoint x="1280" y="2030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dfZKqxk-DiSoixypfCnZ-36" value="&lt;span style=&quot;color: rgb(255 , 164 , 84) ; font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;Buying&lt;/span&gt;&lt;span style=&quot;color: rgb(255 , 164 , 84) ; font-family: &amp;#34;helvetica&amp;#34;&quot;&gt; BTC call 1,800$ 3 days &lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;successful&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="gk_kteRjiz8Lh_NU-UZx-1">
+          <mxGeometry x="1289.5" y="2010" width="346" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dfZKqxk-DiSoixypfCnZ-37" value="同时在界面右上角弹出通知" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="gk_kteRjiz8Lh_NU-UZx-1">
+          <mxGeometry x="1578.5" y="2020" width="360" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dfZKqxk-DiSoixypfCnZ-38" value="Icon" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="gk_kteRjiz8Lh_NU-UZx-1">
+          <mxGeometry x="1310" y="2020" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
