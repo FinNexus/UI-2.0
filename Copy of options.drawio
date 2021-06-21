@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-21T13:15:54.778Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" etag="0gclmScORWpzZFLXXM-6" version="14.8.0" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2021-06-21T13:16:55.414Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" etag="3okkrnFlPR23IkxFl6kc" version="14.8.0" type="github" pages="9">
   <diagram id="Z2_JJwpjE5RmeSe0CtXW" name="Structure">
     <mxGraphModel dx="2062" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1999,7 +1999,7 @@
         <mxCell id="nID7uEk_9ivhSRK0DPHh-17" value="Icon" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="pNvpg5j1sS4toYGmQ9tT-1">
           <mxGeometry x="1718.75" y="2118.75" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="nID7uEk_9ivhSRK0DPHh-18" value="Amount to stake" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="pNvpg5j1sS4toYGmQ9tT-1">
+        <mxCell id="nID7uEk_9ivhSRK0DPHh-18" value="Amount to boost" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="pNvpg5j1sS4toYGmQ9tT-1">
           <mxGeometry x="1572.25" y="2244.25" width="116.25" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nID7uEk_9ivhSRK0DPHh-19" value="Select token to boost" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="pNvpg5j1sS4toYGmQ9tT-1">
